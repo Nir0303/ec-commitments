@@ -85,10 +85,10 @@
             "sig": "MEUCIQChVY7JG+j3ccuUH8Ps1UvBKb8TFDn0lKHmXAMErhdyIQIgDQfslsoZKeActCBbNrbLm5IkxNQrXEymrclAPvKDgsg="
         }
     },
-		"WOps": {
-			"1.0": {
-						"G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
-						"H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
-				}
-		}
+    "HC": {
+        "1.0": {
+            "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
+            "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
+        }
+    }
 }
